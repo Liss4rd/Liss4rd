@@ -1,7 +1,7 @@
 # 🌻 Lizzy Prosise</h1>
 **`Associate Data & Reporting Analyst`**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw1aNBfcTy3C_eJRktHieQWg&ust=1691210233078000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj-goKXwoADFQAAAAAdAAAAABAD.gif)
+![](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112.gif)
 
 - 🌱 I’m currently learning **Python, R, and SQL (PL/SQL)**
 
