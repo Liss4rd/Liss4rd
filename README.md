@@ -1,9 +1,7 @@
-# 🕵️‍♀️ Lizzy Prosise</h1>
+# 🌻 Lizzy Prosise</h1>
 **`Associate Data & Reporting Analyst`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liss4rd&label=Profile%20views&color=0e75b6&style=flat" alt="liss4rd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liss4rd" alt="liss4rd" /></a> </p>
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw1aNBfcTy3C_eJRktHieQWg&ust=1691210233078000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj-goKXwoADFQAAAAAdAAAAABAD)
 
 - 🌱 I’m currently learning **Python, R, and SQL (PL/SQL)**
 
