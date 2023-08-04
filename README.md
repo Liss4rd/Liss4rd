@@ -1,13 +1,7 @@
 # 🌻 Lizzy Prosise
 **`Associate Data & Reporting Analyst`**
 
-- 🌱 I’m currently learning **Python, R, and SQL (PL/SQL)**
-
-- 💬 Ask me about **PL/SQL, Python, and machine learning**
-
-- 📫 How to reach me **lizzypro72@gmail.com**
-
-- ⚡ Fun fact **I'm a huge fantasy book nerd so I love using datasets on literature**
+I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With my professional experience with PL/SQL and R, most of my coding projects will be to showcase my abilities and learn from others working in similar environments. If anything, I hope my little program snippets can be helpful to any upcoming programmers pursuing data science. Good luck on your journey!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
