@@ -1,7 +1,7 @@
 # 🌻 Lizzy Prosise
 **`Associate Data & Reporting Analyst`**
 
-I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With my professional experience with PL/SQL and R, most of my coding projects will be to showcase my abilities and learn from others working in similar environments. If anything, I hope my little program snippets can be helpful to any upcoming programmers pursuing data science. Good luck on your journey!
+I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With my professional experience with PL/SQL and R, most of my coding projects will be to showcase my abilities and learn from others working in similar environments. If anything, I hope my little program snippets can be helpful to anyone pursuing data science. Good luck on your journey!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
