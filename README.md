@@ -1,4 +1,4 @@
-# <h1 align="center">🌻 Lizzy Prosise</h1>
+# <align="center">🌻 Lizzy Prosise</h1>
 **`Associate Data & Reporting Analyst`**
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112.gif" width="387" height="325"/>
