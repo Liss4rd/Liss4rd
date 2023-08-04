@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍♀️ Lizzy Prosise</h1>
+# 🕵️‍♀️ Lizzy Prosise</h1>
 **`Associate Data & Reporting Analyst`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liss4rd&label=Profile%20views&color=0e75b6&style=flat" alt="liss4rd" /> </p>
