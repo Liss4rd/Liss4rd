@@ -21,7 +21,7 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
  <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>                                                                                                                                                                                                              <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/424900/logo-microsoft-data-2.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left"> Frameworks: </h3>
