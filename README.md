@@ -6,7 +6,7 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lizzy-prosise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lizzy-prosise" height="30" width="40" /></a>
-<a href="https://kaggle.com/lizzyprosise" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="lizzyprosise" height="30" width="40" /></a>
+<a href="https://kaggle.com/lizzyprosise" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="lizzyprosise" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lizzypro72" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="lizzypro72" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/liss4rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="liss4rd" height="30" width="40" /></a>
 </p>
