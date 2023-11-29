@@ -12,16 +12,15 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.oracle.com/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a> 
- <a href="https://www.python.org" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
- <a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img align="center" src="https://faculty.washington.edu/otoomet/info201-book/img/r-intro/Rlogo.svg" alt="R" width="40" height="40" /> </a>
- <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a> 
- <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> 
-<a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://www.tableau.com/" target="blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" /> </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/424900/logo-microsoft-data-2.svg" alt="powerbi" width="40" height="40" /> </a>
+<p align="left"><a href="https://www.oracle.com/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
+ <a href="https://www.python.org" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+ <a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img align="center" src="https://faculty.washington.edu/otoomet/info201-book/img/r-intro/Rlogo.svg" alt="R" width="40" height="40" /></a>
+ <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> 
+ <a href="https://cplusplus.com/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a> 
+<a href="https://html.com/html5/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+<a href="https://www.tableau.com/" target="blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" /></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/424900/logo-microsoft-data-2.svg" alt="powerbi" width="40" height="40" /></a>
 </p>
 
 <h3 align="left"> Frameworks: </h3>
