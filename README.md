@@ -30,6 +30,6 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 <a href="https://pandas.pydata.org/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/></a>
 <a href="https://keras.io/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="blank"> <img align="center" src="https://camo.githubusercontent.com/2028bfc93ca189a06d0fe098b0acbb4d53ecc8ada2607a233e2ba923d97142dc/68747470733a2f2f766d61726b6f76747365762e6769746875622e696f2f7079646174612d323031382d6d616c6c6f7263612f70696374757265732f736b6c6561726e5f6c6f676f2e737667" alt="scikit_learn" width="40" height="40"/></a>
 <
 </p>
