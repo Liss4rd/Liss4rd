@@ -2,7 +2,7 @@
 **`Associate Data & Reporting Analyst`**
 
 I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With my professional experience with PL/SQL and R, most of my coding projects will be showcasing my abilities and to learn from others working in similar environments. If anything, I hope my little program snippets can be helpful to anyone pursuing data science. Good luck on your journey!
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lizzy-prosise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lizzy-prosise" height="30" width="40" /></a>
