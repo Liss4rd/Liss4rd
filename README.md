@@ -7,7 +7,7 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 <p align="left">
 <a href="https://linkedin.com/in/lizzy-prosise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lizzy-prosise" height="30" width="40" /></a>
 <a href="https://kaggle.com/lizzyprosise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lizzyprosise" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lizzypro72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lizzypro72" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lizzypro72" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="lizzypro72" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/liss4rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="liss4rd" height="30" width="40" /></a>
 </p>
 
