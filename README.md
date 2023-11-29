@@ -19,7 +19,7 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
  <a href="https://cplusplus.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a> 
 <a href="https://html.com/html5/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="40" height="40" /></a>
-<a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="javascript" width="40" height="40" /></a>
 <a href="https://www.tableau.com/" target="blank"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" /></a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank"> <img align="center" src="https://www.svgrepo.com/show/424900/logo-microsoft-data-2.svg" alt="powerbi" width="40" height="40" /></a>
 </p>
