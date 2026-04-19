@@ -12,7 +12,8 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.oracle.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="40" height="40" /></a>
+<p align="left">
+ <a href="https://www.oracle.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="40" height="40" /></a>
  <a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
  <a href="https://www.r-project.org/" target="blank"> <img align="center" src="https://faculty.washington.edu/otoomet/info201-book/img/r-intro/Rlogo.svg" alt="R" width="40" height="40" /></a>
  <a href="https://www.cprogramming.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> 
@@ -34,4 +35,4 @@ I'm a contract Data & Reporting Analyst and a former Oracle APEX Developer. With
 <a href="https://scipy.org/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipy" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="blank"> <img align="center" src="https://th.bing.com/th/id/ODF.kEwsxddi6_SRJPoJAI38OA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="tensorflow" width="40" height="40"/></a>
-
+</p>
